@@ -6,4 +6,7 @@ Lab 1:
  of - is allowed if and only if T currently contains more plus symbols than minus symbols. For each allowed appending, make a recursive call on the appended T.
  To compile: gcc -o lab1 lab1.c
  
+ Lab 2:
+ 
+ 
  
