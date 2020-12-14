@@ -27,4 +27,18 @@ Lab 1:
  Time taken = 0.000001 sec
  ***Yep! Your guess is correct.
  
+ Lab3: Compile and run with the following commands
+ $gcc -no-pie lab3.c blackbox2.o -o lab3
+ $./lab3
+ Sample output of lab3-   
+ +++ Sorting the balls...  
+ Number of black-box queries = 18664720
+ *** Great!  You cracked it.
  
+ +++ Finding the matching boxes: Method 1...          
+ Number of black-box queries = 52849826 
+ *** Great!  You cracked it.
+ 
+ +++ Finding the matching boxes:  Method 2...        
+ Number of black-box queries = 18475732
+ *** Great! You cracked it.
