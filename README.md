@@ -7,6 +7,22 @@ Lab 1:
  To compile: gcc -o lab1 lab1.c
  
  Lab 2:
- 
+ Sample output for the blackbox game:
+ +++ Game 1
+ a1 = 64965365
+ Time taken = 0.524319 sec
+ ***Yep! Your guess is correct.
+ +++Game 2
+ a2 = 78161829
+ Time taken = 1.295109 sec
+ ***Yep! Your guess is correct.
+ +++ Game 3
+ a3 = 4633204
+ Time taken = 0.000002 sec
+ ***Yep! Your guess is correct.
+ +++ Game 4
+ a4 = 81685977
+ Time taken = 0.000001 sec
+ ***Yep! Your guess is correct.
  
  
