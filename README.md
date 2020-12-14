@@ -7,6 +7,8 @@ Lab 1:
  To compile: gcc -o lab1 lab1.c
  
  Lab 2:
+ A series of 4 games that utilize the black box containing 4 secret integers a1,a2,a3, and a4. There are four games that are played in order to figure out the integer values, and each game is allowed to make integer valued guessing queries to the black box to return the values.
+ 
  Sample output for the blackbox game:
  +++ Game 1
  a1 = 64965365
