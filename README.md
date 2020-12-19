@@ -46,3 +46,12 @@ Lab 1:
  +++ Finding the matching boxes:  Method 2...        
  Number of black-box queries = 18475732
  *** Great! You cracked it.
+ 
+ Lab 4: Binary Trees 
+ Part1: Function print tree prints a binary tree in the format given in the sample output. Another function destroy tree that recursively frees the memory allocated to the nodes of a binary tree. 
+ Part2: Function genenc1 that computes and returns the ternary encoding of a binary tree. Another function genenc2 that computes and returns the binary encoding of a binary tree.
+ Part3:  Function buildtree1 that, given a valid ternary encoding, builds and returns the corresponding binary tree. Proceeds iteratively. Creates a root node, and then build and traverse the rest of the tree starting from the root node. 
+ Part4:Function buildtree2 that, given a valid binary encoding of a binary tree, builds and returns a binary tree having this encoding. Notice that a valid binary encoding may correspond to multiple binary trees.It suffices to construct any such tree and it uses dynamic programming.
+ 
+ 
+ 
