@@ -27,7 +27,11 @@ Lab 1:
  Time taken = 0.000001 sec
  ***Yep! Your guess is correct.
  
- Lab3: Compile and run with the following commands
+ Lab3: 
+ Part1:Indexed Merge Sort
+ Part2:Two-Way Indexed QuickSort 
+ 
+ Compile and run with the following commands
  $gcc -no-pie lab3.c blackbox2.o -o lab3
  $./lab3
  Sample output of lab3-   
