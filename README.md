@@ -53,5 +53,7 @@ Lab 1:
  Part3:  Function buildtree1 that, given a valid ternary encoding, builds and returns the corresponding binary tree. Proceeds iteratively. Creates a root node, and then build and traverse the rest of the tree starting from the root node. 
  Part4:Function buildtree2 that, given a valid binary encoding of a binary tree, builds and returns a binary tree having this encoding. Notice that a valid binary encoding may correspond to multiple binary trees.It suffices to construct any such tree and it uses dynamic programming.
  
+Lab 5:
+
  
  
